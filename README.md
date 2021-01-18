@@ -5,7 +5,8 @@ A new Flutter application.
 ## Getting Started
 
 **_Here a screen shot is displayed for the interface designed for the application_**
-![Screenshot_20210117_051634_com example ghaith](https://user-images.githubusercontent.com/70822571/104861202-8dae0f00-5937-11eb-88aa-66624ca6aca5.jpg
+![Screenshot_20210117_051634_com example ghaith](https://user-images.githubusercontent.com/70822571/104861305-fbf2d180-5937-11eb-8fd7-521ead37c552.jpg)
+ 
 ![Screenshot_20210117_051701_com example ghaith](https://user-images.githubusercontent.com/70822571/104861212-91419600-5937-11eb-8b43-a646c589b330.jpg)
 ![Screenshot_20210117_051823_com example ghaith](https://user-images.githubusercontent.com/70822571/104861214-91419600-5937-11eb-855a-11e6758c495e.jpg)
 ![Screenshot_20210117_051826_com example ghaith](https://user-images.githubusercontent.com/70822571/104861215-91da2c80-5937-11eb-830a-7712a263e879.jpg)

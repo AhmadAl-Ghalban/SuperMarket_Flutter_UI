@@ -1,16 +1,24 @@
-# ghaith
+# SuperMarket
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+**_Here a screen shot is displayed for the interface designed for the application_**
+![Screenshot_20210117_051634_com example ghaith](https://user-images.githubusercontent.com/70822571/104861202-8dae0f00-5937-11eb-88aa-66624ca6aca5.jpg
+![Screenshot_20210117_051701_com example ghaith](https://user-images.githubusercontent.com/70822571/104861212-91419600-5937-11eb-8b43-a646c589b330.jpg)
+![Screenshot_20210117_051823_com example ghaith](https://user-images.githubusercontent.com/70822571/104861214-91419600-5937-11eb-855a-11e6758c495e.jpg)
+![Screenshot_20210117_051826_com example ghaith](https://user-images.githubusercontent.com/70822571/104861215-91da2c80-5937-11eb-830a-7712a263e879.jpg)
+![Screenshot_20210117_051657_com example ghaith](https://user-images.githubusercontent.com/70822571/104861216-9272c300-5937-11eb-8018-6427bdf1bc1c.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_20210117_051642_com example ghaith](https://user-images.githubusercontent.com/70822571/104861206-8f77d280-5937-11eb-8dc5-4d6aec3926de.jpg)
+![Screenshot_20210117_051646_com example ghaith](https://user-images.githubusercontent.com/70822571/104861208-90106900-5937-11eb-815b-131df26370a8.jpg)
+![Screenshot_20210117_051820_com example ghaith](https://user-images.githubusercontent.com/70822571/104861209-90a8ff80-5937-11eb-838b-0e315ec99fcf.jpg)
+
+
+)
+![Screenshot_20210117_051638_com example ghaith](https://user-images.githubusercontent.com/70822571/104861205-8edf3c00-5937-11eb-87d4-854bd53437b2.jpg)
+ 
